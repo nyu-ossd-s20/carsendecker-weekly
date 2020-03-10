@@ -10,7 +10,7 @@ Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "
 
 The description should include a brief summary of what you did.
 
-Replace the first row with your own contribution. 
+Replace the first row with your own contribution.
 
 -->
 
@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| March 9   | https://en.wikipedia.org/w/index.php?title=Asmaa_James&oldid=944807907   | Wikipedia edit    |   I added a few links and fixed small grammar mistakes    |
+| March 9   | https://en.wikipedia.org/wiki/Special:Contributions/Deckofcarse  |  Wikipedia edit  |   I fixed a few typographical errors, spaces between brackets, misspellings, etc.  |
 |     |     |     |      |
