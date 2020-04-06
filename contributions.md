@@ -22,4 +22,5 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | March 9   | https://en.wikipedia.org/w/index.php?title=Asmaa_James&oldid=944807907   | Wikipedia edit    |   I added a few links and fixed small grammar mistakes    |
 | March 9   | https://en.wikipedia.org/wiki/Special:Contributions/Deckofcarse  |  Wikipedia edit  |   I fixed a few typographical errors, spaces between brackets, misspellings, etc.  |
-|     |     |     |      |
+| April 5   |https://www.openstreetmap.org/changeset/83119605   | OpenStreetMap Edits  | Added some info on local restaurants, and replaced an outdated place with a new one.  |
+| April 6   |https://github.com/inkle/inky/issues/240   | Inky Issue  | Opened an issue on the Inky Github, detailing a main problem that I had when trying to run from the source code, and suggesting a solution.  |
